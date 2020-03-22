@@ -1,6 +1,6 @@
 A [Gutenberg](https://wordpress.org/gutenberg/) block to show all the Corona Virus (Covid-19) cases throughout the globe. 🌍
 
-## 👉  `Demo`
+## Demo 
 
 ![Demo](https://i.imgur.com/L7wIXYg.gif "CoronaMap Demo")
 
