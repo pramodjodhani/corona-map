@@ -6,7 +6,7 @@ A [Gutenberg](https://wordpress.org/gutenberg/) block to show all the Corona Vir
 
 
 ### API (Data)
-This plugin makes use of the [API](https://github.com/novelcovid/api) built by [EliteDaMyth](https://github.com/EliteDaMyth),  with the author's permission. 
+This plugin makes use of the [NovelCOVID API](https://github.com/novelcovid/api) built by [EliteDaMyth](https://github.com/EliteDaMyth), and used with the author's permission.
 
 ---
 ##### This project was bootstrapped with [Create Guten Block](https://github.com/ahmadawais/create-guten-block).
