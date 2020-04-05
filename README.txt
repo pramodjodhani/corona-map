@@ -22,7 +22,7 @@ A [Gutenberg](https://wordpress.org/gutenberg/) block to show the Corona Virus (
 
 
 == API (Data) ==
-This plugin makes use of the [API](https://github.com/novelcovid/api) built by [EliteDaMyth](https://github.com/EliteDaMyth),  with the author's permission. 
+
 This plugin makes use of the [NovelCOVID API](https://github.com/novelcovid/api) built by [EliteDaMyth](https://github.com/EliteDaMyth), and used with the author's permission.
 
 == Screenshots ==
